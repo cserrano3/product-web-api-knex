@@ -1,0 +1,7 @@
+{
+  "eslint.workingDirectories": [
+    "./src"
+  ],
+  "eslint.format.enable": true,
+  "files.eol": "\n"
+}
