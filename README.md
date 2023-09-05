@@ -3,7 +3,6 @@
 Uma api REST em Express com as operações básicas de CRUD.
 
 
-**URL Base**: https://web-products-api.onrender.com/api/v1/product
 
 
 
